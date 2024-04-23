@@ -1,0 +1,1 @@
+Access to XMLHttpRequest at 'https://sketchub.in/api/v3/get_categories' from origin 'https://sketch-byte.web.app' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
